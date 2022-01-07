@@ -1,0 +1,8 @@
+# minicraft clone to learn the basic of game programming
+
+## TODO
+[ ] draw n levels of pictures (1. level background)
+[ ] create a map
+[ ] move the stage around on the map
+[ ] load a spritemap
+[ ] create things on the map to draw
